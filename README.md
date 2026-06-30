@@ -4,7 +4,7 @@ Projeto desenvolvido para o Ideathon de Circuitos Digitais da Unifesp (ICT), sob
 
 ## 👥 Integrantes
 * Gabriel Henrique Carvalho - [187468]
-* Leonardo Dante Bocchi Cavalcanti - [RA]
+* Leonardo Dante Bocchi Cavalcanti - [185236]
 * Wagner Júlio Noronha Lima - [RA]
 * Victor Anunciato Pereira de Paula - [RA]
 
