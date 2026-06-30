@@ -1,12 +1,13 @@
 # MonzArtrite - Dispositivo de Suporte ao Idoso (DSI)
 
-Projeto desenvolvido para o Ideathon de Circuitos Digitais da Unifesp (ICT), sob orientação da Profa. Denise Stringhini. O sistema atende ao **ODS 3 (Saúde e Bem-Estar)** da ONU, oferecendo triagem e alarmes síncronos baseados em lógica combinacional e sequencial.
+Projeto desenvolvido para o Ideathon de Circuitos Digitais da Unifesp (ICT), sob orientação da Profa. Dra. Denise Stringhini. 
+O sistema atende ao **ODS 3 (Saúde e Bem-Estar)** da ONU, oferecendo triagem e alarmes síncronos baseados em lógica combinacional e sequencial.
 
 ## 👥 Integrantes
 * Gabriel Henrique Carvalho - [187468]
 * Leonardo Dante Bocchi Cavalcanti - [185236]
-* Wagner Júlio Noronha Lima - [RA]
-* Victor Anunciato Pereira de Paula - [RA]
+* Wagner Júlio Noronha Lima - [187565]
+* Victor Anunciato Pereira de Paula - [185274]
 
 ## 🎥 Vídeos do Projeto
 * 📢 **[LINK AQUI]** - Pitch Acadêmico
