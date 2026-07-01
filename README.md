@@ -10,11 +10,11 @@ O sistema atende ao **ODS 3 (Saúde e Bem-Estar)** da ONU, oferecendo triagem e 
 * Victor Anunciato Pereira de Paula - [185274]
 
 ## 🎥 Vídeos do Projeto
-* 📢 **[LINK AQUI]** - Pitch Acadêmico
-* ⚙️ **[LINK AQUI]** - Demonstração Detalhada do Funcionamento no WiredPanda
+* 📢 **https://www.youtube.com/watch?v=dfshP45kCmc** - Pitch Acadêmico
+* ⚙️ **https://www.youtube.com/watch?v=IceadRK8Wz8** - Demonstração **detalhada** do Funcionamento no WiredPanda
 
 ## 📄 Relatório Final
-* O relatório completo em formato PDF com a fundamentação teórica e resultados parciais está disponível na raiz deste repositório com o nome `Relatorio_MonzArtrite.pdf`.
+* O relatório completo em formato PDF está disponível na raiz deste repositório com o nome `MonzArtrite.pdf`.
 
 ## 🚀 Como Executar o Circuito
 1. Faça o download do arquivo `MonzArtrite.panda` presente neste repositório.
