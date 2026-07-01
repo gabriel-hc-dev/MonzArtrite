@@ -16,7 +16,7 @@ O sistema atende ao **ODS 3 (Saúde e Bem-Estar)** da ONU, oferecendo triagem e 
 ## 📄 Relatório Final
 * O relatório completo em formato PDF está disponível na raiz deste repositório com o nome `MonzArtrite.pdf`.
 
-## 🚀 Como Executar o Circuito
+## Como Executar o Circuito
 1. Faça o download dos arquivos a extensão `.panda` presentes neste repositório e o áudio importado `jeremayjimenez-philippines-eas-alarm-427006.mp3.`
 2. Acesse o simulador WiredPanda.
 3. Vá em *Arquivo > Abrir* e selecione o arquivo baixado.
